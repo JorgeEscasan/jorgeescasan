@@ -1,0 +1,30 @@
+img{
+	height: 350px;
+	width: 500px;
+}
+
+
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+
+body {
+   margin: 0px;
+   min-height: 100%;
+   width: 100%;
+}
+
+h3 {
+	text-align: center;
+}
+
+.floating-block{
+	display: inline-block;
+	margin: 0 auto;
+}
+.floating-block img {
+	width: 33%;
+	height: 46%;
+}

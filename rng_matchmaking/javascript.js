@@ -6,7 +6,7 @@ if (randomA == randomB){
     if (randomB = imageSet.length) {
         randomB--;
     } else {
-        randomB++;
+        randomB++; 
     }
 }
 var imageB = imageSet[randomB];
