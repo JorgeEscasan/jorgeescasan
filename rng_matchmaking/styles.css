@@ -3,7 +3,7 @@ img{
     border-radius:50%;
  
 }
-.imgContainer {
+.imgContainer{
     display:inline-block;
 }
 .matchContainer {
@@ -12,4 +12,20 @@ img{
 .messageContainer{
     display:block;
     text-align:center;
+    padding: 20px;
+    background-color: red;
+    width:100%;
+}
+h2{
+    font-family: 'Roboto Slab', Arial;
+    color:white;
+}
+.charContainer{
+    display:block;
+    text-align:center;
+    width:100%;
+}
+.charContainer p{
+    display:inline;
+
 }
