@@ -2,6 +2,7 @@ body {
     font-family: Consolas;
     color: #51DD2A;
     background-color:black;
+    line-height: 150%
 }
 
 body h1 {
