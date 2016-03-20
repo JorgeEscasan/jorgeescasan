@@ -1,10 +1,21 @@
 body {
     font-family: Consolas;
+    font-size: 115%;
     color: #51DD2A;
     background-color:black;
-    line-height: 150%
+    line-height: 155%;
 }
 
-body h1 {
-    text-align: center
+body h1,h2 {
+    text-align: center;
+}
+
+body p,h3 not:(but) {
+    text-align: left;
+    margin-right: 30%;
+    margin-left: 1%;
+}
+
+.but {
+    text-align: center;
 }
