@@ -1,3 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+
+
+
+
 img {
     width: 200px;
     border-radius: 50%;
@@ -61,4 +69,3 @@ a:hover {
 .desc {
     color: white;
 }
-
