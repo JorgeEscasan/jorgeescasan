@@ -64,9 +64,12 @@ a:hover {
 }
 
 .bio {
-    text-align: Left
+    text-align: left;
+    margin: auto;
 }
 
 .desc {
     color: white;
+    text-align: left;
+    margin: auto;
 }
