@@ -6,14 +6,14 @@ body {
     line-height: 155%;
 }
 
-body h1,h2 {
+body h1,h2,h3 {
     text-align: center;
 }
 
-body p,h3 not:(but) {
-    text-align: left;
-    margin-right: 30%;
-    margin-left: 1%;
+body p {
+    text-align: center;
+/*    margin-right: 30%;
+    margin-left: 1%;*/
 }
 
 .but {
